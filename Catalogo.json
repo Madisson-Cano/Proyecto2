@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "Promocional",
+        "precio": 9.5,
+        "nombre": "Sombrilla",
+        "cantidadDisponible": 0
+    },
+    {
+        "tipo": "Cerámica",
+        "precio": 6,
+        "nombre": "Taza",
+        "cantidadDisponible": 1200
+    },
+    {
+        "tipo": "Algodón",
+        "precio": 12,
+        "nombre": "Camisa",
+        "cantidadDisponible": 0
+    },
+    {
+        "tipo": "Metálico",
+        "precio": 4.5,
+        "tiempoProduccion": 5,
+        "nombre": "Llaveros",
+        "cantidadDisponible": 1500
+    },
+    {
+        "tipo": "Plástico",
+        "precio": 3,
+        "tiempoProduccion": 7,
+        "nombre": "Bolígrafos",
+        "cantidadDisponible": 0
+    }
+]
